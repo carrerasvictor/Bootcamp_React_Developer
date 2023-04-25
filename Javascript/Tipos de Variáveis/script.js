@@ -1,7 +1,7 @@
 const nome = 'Victor';
-let aprovado = true;
-let nota = 8;
+let aprovado = false;
+let nota = 4;
 
-if (nota <= 5) {
-    aprovado = false;
+if (nota > 5) {
+    aprovado = true;
 }
