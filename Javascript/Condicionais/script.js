@@ -1,4 +1,4 @@
-const nota  = 3;
+const nota  = 5;
 
 switch(nota){
  case nota < 5:
