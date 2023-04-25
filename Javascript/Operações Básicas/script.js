@@ -1,5 +1,5 @@
-const valor1 = 10;
-const valor2 = 2;
+const valor1 = 5;
+const valor2 = 20;
 
 
 console.log('Soma',valor1 + valor2);
